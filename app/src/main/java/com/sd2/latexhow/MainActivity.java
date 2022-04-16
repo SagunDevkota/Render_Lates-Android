@@ -14,43 +14,27 @@ import androidx.appcompat.app.AppCompatActivity;
 import ru.noties.jlatexmath.JLatexMathView;
 
 public class MainActivity extends AppCompatActivity {
-    ImageView iv;
     WebView webView;
-    JLatexMathView mv2;
     Button next;
-    int i = 0;
     @SuppressLint("SetJavaScriptEnabled")
     @Override
+    /*
+    initialize all components and call latex function to add to webView
+    */
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        ImageView iv = findViewById(R.id.imageView);
 
         webView = findViewById(R.id.webView);
         webView.getSettings().setJavaScriptEnabled(true);
 //        webView.getSettings().setDomStorageEnabled(true);
         webView.setWebViewClient(new WebViewClient());
-
-        mv2 = findViewById(R.id.j_latex_math_view);
         next = findViewById(R.id.button);
         LatexParser latex = new LatexParser();
-        latex.setText("physics","1",this);
+        latex.setText(this);
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-//                    latex.setText(question[i]);
-//                    String data = null;
-//                    try {
-//                        data = latex.getURL();
-//                        Log.d("TAG", "onClick: "+latex);
-//                    } catch (MalformedURLException | URISyntaxException e) {
-//                        e.printStackTrace();
-//                    }
-//                    Glide.with(getApplicationContext())
-//                            .load(data)
-//                            .into(iv);
-//                    Log.d("TAG", "onClick: "+data);
                     webView.loadData(latex.getHtml(),"text/html","UTF-8");
             }
         });

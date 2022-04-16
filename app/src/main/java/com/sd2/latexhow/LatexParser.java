@@ -14,7 +14,10 @@ public class LatexParser {
     JsonReader jsonHandler;
     ArrayList<String> questionArray;
     int questionCounter = 0;
-    public void setText(String subject, String marks, Context context){
+    /*
+    To get Read File from jsonHandler
+    */
+    public void setText(Context context){
         jsonHandler = new JsonReader(context.getApplicationContext());
         try {
             questionArray = jsonHandler.readFile();
@@ -28,6 +31,10 @@ public class LatexParser {
         questionCounter++;
         return explanation;
     }
+    /*
+    Html logic to render latex
+    Note: Changes are required only in this method
+    */
     public String getHtml(){
         String p_tag="";
         String script="";
