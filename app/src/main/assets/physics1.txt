@@ -1,0 +1,576 @@
+|a+ib| = |\sqrt{\dfrac{(1+i)}{(1-i)}}||a+ib| = \sqrt{\dfrac{|(1+i)|}{|(1-i)|}}\sqrt{a^2 +b^2} = \sqrt{\dfrac{\sqrt{1^2 + 1^2}}{\sqrt{1^2 + 1^2}}}\sqrt{a^2 +b^2} = 1a^2 +b^2 =1
+\frac{\lambda_c}{\lambda_p}=\frac{\displaystyle\frac h{\sqrt{2m_eev}}}{\frac h{\sqrt{2m_pev}}}=\sqrt{\frac{m_p}{m_e}}
+\begin{array}{l}v=\sqrt{v_x^2+v_y^2}\;,\;speed\;will\;be\;least\;if\;v_y=0\\i.e\;heighest\;point\end{array}
+As refractive index of red is less than voilet so, red light deviate less
+Thermocouple thermometer will be more sensitive if distance of two metals in themo electric series increases 
+Act as parallel plate conductor carrying current in same direction
+As water evaporates its temperature falls
+In case of helium, on increasing humidity density increases so velocity of sound decrases
+\begin{array}{l}mk^2=\frac25mR^2\;+mR^2\\or,k=\sqrt{\frac75}R\end{array}
+Obvious
+\begin{array}{l}\lambda=\frac h{\sqrt{2mE}}\\\frac{\lambda'}\lambda=\sqrt{\frac E{E'}}=1/2\end{array}
+\begin{array}{l}\lambda=\frac vf=\frac{360}{500}=0.72\;m\\\phi=\frac{2\pi x}\lambda\\x=0.12m\end{array}
+\frac{\displaystyle\frac em}{\displaystyle\frac{2e}{4m}}=2:1
+\eta=\left(1-\frac{T_2}{T_1}\right)\times100\%where T2 =27
+maximum KE = Maximum PE
+volume of water decrease from 0 to 4 and the increases
+\begin{array}{l}v^2=2gh\\and\\(2v)^2=2gh'\\or,4.2gn=2gh'\\h'=4h\\h'-h=3h\end{array}
+D=4ff=D/4
+\begin{array}{l}C=4\pi\varepsilon_or....1\\if\;drops\;combine,\\\frac{4\pi}3R^3=\frac{n4\pi}3r^3\\R=2r\\then,\\C'=4\pi\varepsilon_oR........2\\divide\;1\;by\;2\;\end{array}
+\begin{array}{l}V=\sqrt{2gh}\\\frac{P_1}{P_2}=\frac{m_1v}{m_2v}=\frac23\end{array}
+\begin{array}{l}\frac{V_{out}}{V_{in}}=\frac{I_cR_{out}}{I_bR_{in}}\\V_{out}=\beta\times\frac{4000}{500}\times10\times10^{-3}=4V\end{array}
+Oil film is appeared coloured due to interference of light.
+Two waves of same frequency travelling in opposite direction form stationary wave.
+The energy of electron is independent of intensity of radiation.
+\begin{array}{l}E=\frac1{r^2}\\r=\sqrt{\frac{-1}E}=\sqrt{\frac{50}2}=5\;m\\\end{array}
+\begin{array}{l}Vol/see=\;Av=A\sqrt{2gh}\;\;\\i.e.\;vol/sec\;is\;independent\;to\;density\;of\;liquid.\end{array}
+When cathode rays are projected perpendicular to magnetic field then force is perpendiucular to path & path. is circular.
+Speed decreases during retardation
+For isochoric process dv= 0 so volume remain constant.
+\begin{array}{l}h=\frac{u^2}{2g}\\or,\;u²\;=\;2gh\;\;\\Again\;R=\;\frac{u^2}g=\frac{\;2gh}g\;=\;2h\end{array}
+\begin{array}{l}R=\frac{\rho l}A=\frac{\rho l^2}V\\so,\;R'=4R\end{array}
+Due to low thermal conductivity of cloud no heat energy can escape from earth
+\begin{array}{l}3\%\;of\;P=\frac{nhC}{t\lambda}\\\frac nt=\frac{3\times25\times6600\times10^{-10}}{100\times6.62\times10^{-34}\times3\times10^8}\\I=\frac{ne}t=2.49\times10^{18}\times1.6\times10^{-19}\\\;\;\;=0.398\;A=0.4\;A\\\end{array}
+We know,dQ = du + dwwhen dw = 0, du < 0i.e. internal energy decrease, so temperature will decrease.
+When dielectric slab is introduced then C increases at constant V so Q = CV, increases.
+Rainbow is due to dispersion of light in which total internal reflection also takes place.
+Node are point where particle have minimum displacement so pressure will e maximum. i.e. strain will be maximum.
+Location of particles changes means distance and displacement both will not e zero.
+Surface tension is due to inter molecuar force of attraction which decreases with increase in temperature
+on increasing temperature wavelength decreases
+\begin{array}{l}\frac{R'}R=\left(\frac{3l}l\right)^2\\R'=9\ast5=45\end{array}
+\begin{array}{l}\Delta V=V\gamma\Delta\theta\;\\\;Expansion\;depends\;on\;dimension,\;nature\;of\;mater\;and\;change\;in\;temperature\;which\;remain\;cons\tan t..\end{array}
+L=mvr=\frac{nh}{2\mathrm\pi}
+\begin{array}{l}g'=g-R\omega2cos2\theta\\As\;we\;go\;from\;equator\;to\;pole\;\theta\;increases\;so\;value\;of\;g\;also\;increase.\end{array}
+\begin{array}{l}\frac{C_{O\_rms}}{C_{H\_rms}}=\sqrt{\frac{M_H}{M_O}}\;\\C_{O\_rms}=1920\sqrt{\frac2{32}}=480m/s\end{array}
+\begin{array}{l}After\;passing\;from1st\\I_1=0.9I\\After\;passing\;from\;2nd\;I_2=0.9I_1=0.81I2\\\%reduce=(1-\frac{I_2}{l_1})\times100\%\end{array}
+When force of constant magnitude act on a body perpendicular to path then speed remain constant.
+Efficiency\;increases\;of\;ratio\;of\frac{T1}{T2}\;\;\;is\;less\;i.e.\;T2\;decreases\;\&\;T1\;increases.
+In high altitude gas expand adiabatically so temp. fall.
+First increases and becomes maximum at neutral temperature then decreases to zero at temperature of inversion then increases in reverse direction.
+Use graph of variation of binding energy per nucleon with mass no.
+Velocity of sound is independent to change in pressure
+Sensitivity increase if potential gradient decreases i.e. length of potentiometer increases
+E/V=1/2∗CV^
+2
+ /(Ad)=1/2∗ϵ
+o
+​
+ V ^
+2
+ /d ^
+2
+\begin{array}{l}v=at=\frac{\displaystyle vt}T​\\Workdone(w)=\frac{\displaystyle1}{\displaystyle2}mv^2\\or,w\propto v^2\\or,w\propto\frac{v^2t^2}{T^2}\end{array}
+\begin{array}{l}L=mvr=mr2\omega\\Again,L'=mr'^2\omega'=m(\frac{\displaystyle r}{\displaystyle2})^2\times2\omega=mr^2\omega\times\frac{\displaystyle1}{\displaystyle2}=\frac{\displaystyle L}{\displaystyle2}\end{array}
+\begin{array}{l}wt=mg=w\\Atadepth.\\wt=mg'=mg(1-\frac R2)=\frac w2\end{array}
+Running fan increases the rate of evaporation.
+V=\frac{W\;​}{\;\;Q\;}\;\;=\;5/2=2.5V
+\begin{array}{l}\frac{1​}2\times mv^2=F_f​\times s\\or,\frac12\times mv^2=\mu mgs\\or,s=\frac{v^2}{2\mu g}\\So,\frac{s'}s=(\frac{100}{50})^2=4\\s'=6\times4=24m\end{array}
+\beta=\;\frac{\;\;\Delta I_{\;\;c}\;​\;}{\;\;\Delta I_{\;\;b}\;​}\;\;​\;\;=\;\frac{\;(10-5)\times10\;^{\;-3\;\;}}{\;(200-100)\times10\;^{\;-6\;}\;}\;​\;\;=50
+so \muμ is maximum for blue due to minimum wavelength so blue will deviate maximum.
+Momentum is only conserved in explosion
+Cooking is boiling at high temperature
+Velocity of sound is independent to change in pressure.
+Cooking is faster due to cooking at high boiling point due to increase in pressure.
+Charge at corner contribute one eighth 
+\begin{array}{l}g=\frac{GM}{R^2}​\\Ifearth\;shrink\;then\\g’=\frac{GM}{(\frac R2)^2}=4\times\frac{GM}{R^2}=4g\end{array}
+In forward biasing the majority charge carries are pushed towards junction so width of depletion layer decreases.
+P2​V2^γ​=P1​V1^γ​ 
+Since, λblue​<λred​, so x decrease and band becomes narrower
+α=0.96We have,\beta =\dfrac {\alpha}{(1-\alpha)}= 24
+Fa​=40NƐ_r = \dfrac{F_a}{F_m}F_m = \dfrac{40}{8} = 5\;N
+Centripetal acceleration remains unchanged.
+The no. of photo electrons emitted are proportional to the intensity of incident radiation
+focal length negativev = -uthen use mirror formulawe get,u=(n−1)f
+On decreasing r , PE increases
+If coin falls behind the person then train must be in acceleration.
+R = (V - Vz)/Is = (20 - 5)/(10 × 10-3) = 1500 ohm = 1.5 k ohm
+600m is traveled in 2sec so in 1sec it travel 300m. Hence, 500 waves are present in 300mtherefore, No. of waves between XY are 2*500 = 1000
+The drift velocity of electrons in metal is in the order of mm/s.
+P=Fvsince, F =mv/t=ms/t^2
+To emit X-ray the difference between two energy level must lie in X-ray region
+Here k for solid sphere is less than hollow sphere so 'a' for solid sphere is greater than hollow sphere. Hence solid sphere will reach at bottom faster.\begin{array}{l}\alpha=\frac{g\;\sin\theta}{1+{\displaystyle\frac{k^2}{r^2}}}\\\end{array}
+Force on electron act in opposite direction of field so they decelerate.
+ΔP=mvsin45−(−mvsin45)
+\begin{array}{l}use\;the\;relation\\m=\frac IO=\frac vu\\\end{array}
+G+R=nG or, R=(n-1)G
+use R=ρl/A
+stress is independent of the length
+Acceleration increases if displacement increases but time period is independent
+R=\frac{\Delta V}{\Delta I}=\frac1{0.5\times10^{-6}}
+If uv radiation doesn't emit electron then radiation to emit electron must be enegetic i.e, x-ray.
+E=\frac Q{4{\mathrm{πε}}_0\mathrm r^2}=\frac\sigma{\varepsilon_o}
+\begin{array}{l}KE=PE\\\frac12mw^2(a^2-y^2)=\frac12mw^2y^2\\or,\;a^2=2y^2\end{array}
+\begin{array}{l}KE_1=KE_2\\or,\;\frac{L_1^2}{2I}=\frac{L_2^2}{2\ast2I}\\or,\frac{L_1}{L_2}=\frac1{\sqrt2}\end{array}
+on introducing dielectric slab, capacitance increases. So electric field intensity decreases.
+\frac{KE_o}{KE_H}=\frac{\displaystyle\frac32KT}{\displaystyle\frac32KT}=1:1
+This is because, the rear wheel is constantly being rotated by a external force and hence it must exert forward friction on ground to keep moving, but front wheel is being rotated due to friction of ground which is backward in direction at the lowermost tip of tyre of front wheel.
+μ=tanip​=tan67 c = \sin^-1(\dfrac{1}{\mu}) = 25.1^{\circ}
+ Force Constant K∝1/length
+Pole strength ∝ Cross sectional area.
+We have the net flux through whole cube will beQ/8​ due to charge at corner. \dfrac{Q}{24}
+Object in rarer medium is seen from denser medium, then it appears taller than its actual height. This is converse for shift in medium.
+Water is denser than air, so total internal reflection is the accounting factor for this phenomenon.
+Force between two charges is always same independent of other charges in their periphery
+Intensity of x-ray increases on increasing current through the filament.
+ I \propto a^2
+\frac{\lambda_c}{\lambda_p}=\frac{\displaystyle\frac h{\sqrt{2m_eev}}}{\frac h{\sqrt{2m_pev}}}=\sqrt{\frac{m_p}{m_e}}
+\begin{array}{l}v=\sqrt{v_x^2+v_y^2}\;,\;speed\;will\;be\;least\;if\;v_y=0\\i.e\;heighest\;point\end{array}
+As refractive index of red is less than voilet so, red light deviate less
+Thermocouple thermometer will be more sensitive if distance of two metals in themo electric series increases 
+Act as parallel plate conductor carrying current in same direction
+As water evaporates its temperature falls
+In case of helium, on increasing humidity density increases so velocity of sound decrases
+\begin{array}{l}mk^2=\frac25mR^2\;+mR^2\\or,k=\sqrt{\frac75}R\end{array}
+Obvious
+\begin{array}{l}\lambda=\frac h{\sqrt{2mE}}\\\frac{\lambda'}\lambda=\sqrt{\frac E{E'}}=1/2\end{array}
+\begin{array}{l}\lambda=\frac vf=\frac{360}{500}=0.72\;m\\\phi=\frac{2\pi x}\lambda\\x=0.12m\end{array}
+\frac{\displaystyle\frac em}{\displaystyle\frac{2e}{4m}}=2:1
+\eta=\left(1-\frac{T_2}{T_1}\right)\times100\%where T2 =27
+maximum KE = Maximum PE 
+volume of water decrease from 0 to 4 and the increases
+\begin{array}{l}v^2=2gh\\and\\(2v)^2=2gh'\\or,4.2gn=2gh'\\h'=4h\\h'-h=3h\end{array}
+D=4ff=D/4
+\begin{array}{l}C=4\pi\varepsilon_or....1\\if\;drops\;combine,\\\frac{4\pi}3R^3=\frac{n4\pi}3r^3\\R=2r\\then,\\C'=4\pi\varepsilon_oR........2\\divide\;1\;by\;2\;\end{array}
+\begin{array}{l}V=\sqrt{2gh}\\\frac{P_1}{P_2}=\frac{m_1v}{m_2v}=\frac23\end{array}
+\begin{array}{l}\frac{V_{out}}{V_{in}}=\frac{I_cR_{out}}{I_bR_{in}}\\V_{out}=\beta\times\frac{4000}{500}\times10\times10^{-3}=4V\end{array}
+Oil film is appeared coloured due to interference of light.
+Two waves of same frequency travelling in opposite direction form stationary wave.
+The energy of electron is independent of intensity of radiation.
+\begin{array}{l}E=\frac1{r^2}\\r=\sqrt{\frac{-1}E}=\sqrt{\frac{50}2}=5\;m\\\end{array}
+\begin{array}{l}Vol/see=\;Av=A\sqrt{2gh}\;\;\\i.e.\;vol/sec\;is\;independent\;to\;density\;of\;liquid.\end{array}
+When cathode rays are projected perpendicular to magnetic field then force is perpendiucular to path & path. is circular.
+Speed decreases during retardation
+For isochoric process dv= 0 so volume remain constant.
+\begin{array}{l}h=\frac{u^2}{2g}\\or,\;u²\;=\;2gh\;\;\\Again\;R=\;\frac{u^2}g=\frac{\;2gh}g\;=\;2h\end{array}
+\begin{array}{l}R=\frac{\rho l}A=\frac{\rho l^2}V\\so,\;R'=4R\end{array}
+Due to low thermal conductivity of cloud no heat energy can escape from earth
+\begin{array}{l}3\%\;of\;P=\frac{nhC}{t\lambda}\\\frac nt=\frac{3\times25\times6600\times10^{-10}}{100\times6.62\times10^{-34}\times3\times10^8}\\I=\frac{ne}t=2.49\times10^{18}\times1.6\times10^{-19}\\\;\;\;=0.398\;A=0.4\;A\\\end{array}
+We know,dQ = du + dwwhen dw = 0, du < 0i.e. internal energy decrease, so temperature will decrease.
+When dielectric slab is introduced then C increases at constant V so Q = CV, increases.
+Rainbow is due to dispersion of light in which total internal reflection also takes place.
+Node are point where particle have minimum displacement so pressure will e maximum. i.e. strain will be maximum.
+Location of particles changes means distance and displacement both will not e zero.
+Surface tension is due to inter molecuar force of attraction which decreases with increase in temperature
+on increasing temperature wavelength decreases
+\begin{array}{l}\frac{R'}R=\left(\frac{3l}l\right)^2\\R'=9\ast5=45\end{array}
+\begin{array}{l}\Delta V=V\gamma\Delta\theta\;\\\;Expansion\;depends\;on\;dimension,\;nature\;of\;mater\;and\;change\;in\;temperature\;which\;remain\;cons\tan t..\end{array}
+L=mvr=\frac{nh}{2\mathrm\pi}
+\begin{array}{l}g'=g-R\omega2cos2\theta\\As\;we\;go\;from\;equator\;to\;pole\;\theta\;increases\;so\;value\;of\;g\;also\;increase.\end{array}
+\begin{array}{l}\frac{C_{O\_rms}}{C_{H\_rms}}=\sqrt{\frac{M_H}{M_O}}\;\\C_{O\_rms}=1920\sqrt{\frac2{32}}=480m/s\end{array}
+\begin{array}{l}After\;passing\;from1st\\I_1=0.9I\\After\;passing\;from\;2nd\;I_2=0.9I_1=0.81I2\\\%reduce=(1-\frac{I_2}{l_1})\times100\%\end{array}
+When force of constant magnitude act on a body perpendicular to path then speed remain constant.
+Efficiency\;increases\;of\;ratio\;of\frac{T1}{T2}\;\;\;is\;less\;i.e.\;T2\;decreases\;\&\;T1\;increases.
+In high altitude gas expand adiabatically so temp. fall.
+First increases and becomes maximum at neutral temperature then decreases to zero at temperature of inversion then increases in reverse direction.
+Use graph of variation of binding energy per nucleon with mass no.
+Velocity of sound is independent to change in pressure
+Sensitivity increase if potential gradient decreases i.e. length of potentiometer increases
+E/V=1/2∗CV^
+2
+ /(Ad)=1/2∗ϵ
+o
+​
+ V ^
+2
+ /d ^
+2
+\begin{array}{l}v=at=\frac{\displaystyle vt}T​\\Workdone(w)=\frac{\displaystyle1}{\displaystyle2}mv^2\\or,w\propto v^2\\or,w\propto\frac{v^2t^2}{T^2}\end{array}
+\begin{array}{l}L=mvr=mr2\omega\\Again,L'=mr'^2\omega'=m(\frac{\displaystyle r}{\displaystyle2})^2\times2\omega=mr^2\omega\times\frac{\displaystyle1}{\displaystyle2}=\frac{\displaystyle L}{\displaystyle2}\end{array}
+\begin{array}{l}wt=mg=w\\Atadepth.\\wt=mg'=mg(1-\frac R2)=\frac w2\end{array}
+Running fan increases the rate of evaporation.
+V=\frac{W\;​}{\;\;Q\;}\;\;=\;5/2=2.5V
+\begin{array}{l}\frac{1​}2\times mv^2=F_f​\times s\\or,\frac12\times mv^2=\mu mgs\\or,s=\frac{v^2}{2\mu g}\\So,\frac{s'}s=(\frac{100}{50})^2=4\\s'=6\times4=24m\end{array}
+\beta=\;\frac{\;\;\Delta I_{\;\;c}\;​\;}{\;\;\Delta I_{\;\;b}\;​}\;\;​\;\;=\;\frac{\;(10-5)\times10\;^{\;-3\;\;}}{\;(200-100)\times10\;^{\;-6\;}\;}\;​\;\;=50
+so \muμ is maximum for blue due to minimum wavelength so blue will deviate maximum.
+Momentum is only conserved in explosion
+Cooking is boiling at high temperature
+Velocity of sound is independent to change in pressure.
+Cooking is faster due to cooking at high boiling point due to increase in pressure.
+Charge at corner contribute one eighth 
+\begin{array}{l}g=\frac{GM}{R^2}​\\Ifearth\;shrink\;then\\g’=\frac{GM}{(\frac R2)^2}=4\times\frac{GM}{R^2}=4g\end{array}
+In forward biasing the majority charge carries are pushed towards junction so width of depletion layer decreases.
+P2​V2^γ​=P1​V1^γ​ 
+Since, λblue​<λred​, so x decrease and band becomes narrower
+α=0.96We have,\beta =\dfrac {\alpha}{(1-\alpha)}= 24
+Fa​=40NƐ_r = \dfrac{F_a}{F_m}F_m = \dfrac{40}{8} = 5\;N
+Centripetal acceleration remains unchanged.
+The no. of photo electrons emitted are proportional to the intensity of incident radiation
+focal length negativev = -uthen use mirror formulawe get,u=(n−1)f
+On decreasing r , PE increases
+If coin falls behind the person then train must be in acceleration.
+R = (V - Vz)/Is = (20 - 5)/(10 × 10-3) = 1500 ohm = 1.5 k ohm
+600m is traveled in 2sec so in 1sec it travel 300m. Hence, 500 waves are present in 300mtherefore, No. of waves between XY are 2*500 = 1000
+The drift velocity of electrons in metal is in the order of mm/s.
+P=Fvsince, F =mv/t=ms/t^2
+To emit X-ray the difference between two energy level must lie in X-ray region
+Here k for solid sphere is less than hollow sphere so 'a' for solid sphere is greater than hollow sphere. Hence solid sphere will reach at bottom faster.\begin{array}{l}\alpha=\frac{g\;\sin\theta}{1+{\displaystyle\frac{k^2}{r^2}}}\\\end{array}
+Force on electron act in opposite direction of field so they decelerate.
+ΔP=mvsin45−(−mvsin45)
+\begin{array}{l}use\;the\;relation\\m=\frac IO=\frac vu\\\end{array}
+G+R=nG or, R=(n-1)G
+use R=ρl/A
+stress is independent of the length
+Acceleration increases if displacement increases but time period is independent
+R=\frac{\Delta V}{\Delta I}=\frac1{0.5\times10^{-6}}
+If uv radiation doesn't emit electron then radiation to emit electron must be enegetic i.e, x-ray.
+E=\frac Q{4{\mathrm{πε}}_0\mathrm r^2}=\frac\sigma{\varepsilon_o}
+\begin{array}{l}KE=PE\\\frac12mw^2(a^2-y^2)=\frac12mw^2y^2\\or,\;a^2=2y^2\end{array}
+\begin{array}{l}KE_1=KE_2\\or,\;\frac{L_1^2}{2I}=\frac{L_2^2}{2\ast2I}\\or,\frac{L_1}{L_2}=\frac1{\sqrt2}\end{array}
+on introducing dielectric slab, capacitance increases. So electric field intensity decreases.
+\frac{KE_o}{KE_H}=\frac{\displaystyle\frac32KT}{\displaystyle\frac32KT}=1:1
+This is because, the rear wheel is constantly being rotated by a external force and hence it must exert forward friction on ground to keep moving, but front wheel is being rotated due to friction of ground which is backward in direction at the lowermost tip of tyre of front wheel.
+μ=tanip​=tan67 c = \sin^-1(\dfrac{1}{\mu}) = 25.1^{\circ}
+ Force Constant K∝1/length
+Pole strength ∝ Cross sectional area.
+We have the net flux through whole cube will beQ/8​ due to charge at corner. \dfrac{Q}{24}
+Object in rarer medium is seen from denser medium, then it appears taller than its actual height. This is converse for shift in medium.
+Water is denser than air, so total internal reflection is the accounting factor for this phenomenon.
+Force between two charges is always same independent of other charges in their periphery
+Intensity of x-ray increases on increasing current through the filament.
+ I \propto a^2
+\frac{\lambda_c}{\lambda_p}=\frac{\displaystyle\frac h{\sqrt{2m_eev}}}{\frac h{\sqrt{2m_pev}}}=\sqrt{\frac{m_p}{m_e}}
+\begin{array}{l}v=\sqrt{v_x^2+v_y^2}\;,\;speed\;will\;be\;least\;if\;v_y=0\\i.e\;heighest\;point\end{array}
+As refractive index of red is less than voilet so, red light deviate less
+Thermocouple thermometer will be more sensitive if distance of two metals in themo electric series increases 
+Act as parallel plate conductor carrying current in same direction
+As water evaporates its temperature falls
+In case of helium, on increasing humidity density increases so velocity of sound decrases
+\begin{array}{l}mk^2=\frac25mR^2\;+mR^2\\or,k=\sqrt{\frac75}R\end{array}
+Obvious
+\begin{array}{l}\lambda=\frac h{\sqrt{2mE}}\\\frac{\lambda'}\lambda=\sqrt{\frac E{E'}}=1/2\end{array}
+\begin{array}{l}\lambda=\frac vf=\frac{360}{500}=0.72\;m\\\phi=\frac{2\pi x}\lambda\\x=0.12m\end{array}
+\frac{\displaystyle\frac em}{\displaystyle\frac{2e}{4m}}=2:1
+\eta=\left(1-\frac{T_2}{T_1}\right)\times100\%where T2 =27
+maximum KE = Maximum PE 
+volume of water decrease from 0 to 4 and the increases
+\begin{array}{l}v^2=2gh\\and\\(2v)^2=2gh'\\or,4.2gn=2gh'\\h'=4h\\h'-h=3h\end{array}
+D=4ff=D/4
+\begin{array}{l}C=4\pi\varepsilon_or....1\\if\;drops\;combine,\\\frac{4\pi}3R^3=\frac{n4\pi}3r^3\\R=2r\\then,\\C'=4\pi\varepsilon_oR........2\\divide\;1\;by\;2\;\end{array}
+\begin{array}{l}V=\sqrt{2gh}\\\frac{P_1}{P_2}=\frac{m_1v}{m_2v}=\frac23\end{array}
+\begin{array}{l}\frac{V_{out}}{V_{in}}=\frac{I_cR_{out}}{I_bR_{in}}\\V_{out}=\beta\times\frac{4000}{500}\times10\times10^{-3}=4V\end{array}
+Oil film is appeared coloured due to interference of light.
+Two waves of same frequency travelling in opposite direction form stationary wave.
+The energy of electron is independent of intensity of radiation.
+\begin{array}{l}E=\frac1{r^2}\\r=\sqrt{\frac{-1}E}=\sqrt{\frac{50}2}=5\;m\\\end{array}
+\begin{array}{l}Vol/see=\;Av=A\sqrt{2gh}\;\;\\i.e.\;vol/sec\;is\;independent\;to\;density\;of\;liquid.\end{array}
+When cathode rays are projected perpendicular to magnetic field then force is perpendiucular to path & path. is circular.
+Speed decreases during retardation
+For isochoric process dv= 0 so volume remain constant.
+\begin{array}{l}h=\frac{u^2}{2g}\\or,\;u²\;=\;2gh\;\;\\Again\;R=\;\frac{u^2}g=\frac{\;2gh}g\;=\;2h\end{array}
+\begin{array}{l}R=\frac{\rho l}A=\frac{\rho l^2}V\\so,\;R'=4R\end{array}
+Due to low thermal conductivity of cloud no heat energy can escape from earth
+\begin{array}{l}3\%\;of\;P=\frac{nhC}{t\lambda}\\\frac nt=\frac{3\times25\times6600\times10^{-10}}{100\times6.62\times10^{-34}\times3\times10^8}\\I=\frac{ne}t=2.49\times10^{18}\times1.6\times10^{-19}\\\;\;\;=0.398\;A=0.4\;A\\\end{array}
+We know,dQ = du + dwwhen dw = 0, du < 0i.e. internal energy decrease, so temperature will decrease.
+When dielectric slab is introduced then C increases at constant V so Q = CV, increases.
+Rainbow is due to dispersion of light in which total internal reflection also takes place.
+Node are point where particle have minimum displacement so pressure will e maximum. i.e. strain will be maximum.
+Location of particles changes means distance and displacement both will not e zero.
+Surface tension is due to inter molecuar force of attraction which decreases with increase in temperature
+on increasing temperature wavelength decreases
+\begin{array}{l}\frac{R'}R=\left(\frac{3l}l\right)^2\\R'=9\ast5=45\end{array}
+\begin{array}{l}\Delta V=V\gamma\Delta\theta\;\\\;Expansion\;depends\;on\;dimension,\;nature\;of\;mater\;and\;change\;in\;temperature\;which\;remain\;cons\tan t..\end{array}
+L=mvr=\frac{nh}{2\mathrm\pi}
+\begin{array}{l}g'=g-R\omega2cos2\theta\\As\;we\;go\;from\;equator\;to\;pole\;\theta\;increases\;so\;value\;of\;g\;also\;increase.\end{array}
+\begin{array}{l}\frac{C_{O\_rms}}{C_{H\_rms}}=\sqrt{\frac{M_H}{M_O}}\;\\C_{O\_rms}=1920\sqrt{\frac2{32}}=480m/s\end{array}
+\begin{array}{l}After\;passing\;from1st\\I_1=0.9I\\After\;passing\;from\;2nd\;I_2=0.9I_1=0.81I2\\\%reduce=(1-\frac{I_2}{l_1})\times100\%\end{array}
+When force of constant magnitude act on a body perpendicular to path then speed remain constant.
+Efficiency\;increases\;of\;ratio\;of\frac{T1}{T2}\;\;\;is\;less\;i.e.\;T2\;decreases\;\&\;T1\;increases.
+In high altitude gas expand adiabatically so temp. fall.
+First increases and becomes maximum at neutral temperature then decreases to zero at temperature of inversion then increases in reverse direction.
+Use graph of variation of binding energy per nucleon with mass no.
+Velocity of sound is independent to change in pressure
+Sensitivity increase if potential gradient decreases i.e. length of potentiometer increases
+E/V=1/2∗CV^
+2
+ /(Ad)=1/2∗ϵ
+o
+​
+ V ^
+2
+ /d ^
+2
+\begin{array}{l}v=at=\frac{\displaystyle vt}T​\\Workdone(w)=\frac{\displaystyle1}{\displaystyle2}mv^2\\or,w\propto v^2\\or,w\propto\frac{v^2t^2}{T^2}\end{array}
+\begin{array}{l}L=mvr=mr2\omega\\Again,L'=mr'^2\omega'=m(\frac{\displaystyle r}{\displaystyle2})^2\times2\omega=mr^2\omega\times\frac{\displaystyle1}{\displaystyle2}=\frac{\displaystyle L}{\displaystyle2}\end{array}
+\begin{array}{l}wt=mg=w\\Atadepth.\\wt=mg'=mg(1-\frac R2)=\frac w2\end{array}
+Running fan increases the rate of evaporation.
+V=\frac{W\;​}{\;\;Q\;}\;\;=\;5/2=2.5V
+\begin{array}{l}\frac{1​}2\times mv^2=F_f​\times s\\or,\frac12\times mv^2=\mu mgs\\or,s=\frac{v^2}{2\mu g}\\So,\frac{s'}s=(\frac{100}{50})^2=4\\s'=6\times4=24m\end{array}
+\beta=\;\frac{\;\;\Delta I_{\;\;c}\;​\;}{\;\;\Delta I_{\;\;b}\;​}\;\;​\;\;=\;\frac{\;(10-5)\times10\;^{\;-3\;\;}}{\;(200-100)\times10\;^{\;-6\;}\;}\;​\;\;=50
+so \muμ is maximum for blue due to minimum wavelength so blue will deviate maximum.
+Momentum is only conserved in explosion
+Cooking is boiling at high temperature
+Velocity of sound is independent to change in pressure.
+Cooking is faster due to cooking at high boiling point due to increase in pressure.
+Charge at corner contribute one eighth 
+\begin{array}{l}g=\frac{GM}{R^2}​\\Ifearth\;shrink\;then\\g’=\frac{GM}{(\frac R2)^2}=4\times\frac{GM}{R^2}=4g\end{array}
+In forward biasing the majority charge carries are pushed towards junction so width of depletion layer decreases.
+P2​V2^γ​=P1​V1^γ​ 
+Since, λblue​<λred​, so x decrease and band becomes narrower
+α=0.96We have,\beta =\dfrac {\alpha}{(1-\alpha)}= 24
+Fa​=40NƐ_r = \dfrac{F_a}{F_m}F_m = \dfrac{40}{8} = 5\;N
+Centripetal acceleration remains unchanged.
+The no. of photo electrons emitted are proportional to the intensity of incident radiation
+focal length negativev = -uthen use mirror formulawe get,u=(n−1)f
+On decreasing r , PE increases
+If coin falls behind the person then train must be in acceleration.
+R = (V - Vz)/Is = (20 - 5)/(10 × 10-3) = 1500 ohm = 1.5 k ohm
+600m is traveled in 2sec so in 1sec it travel 300m. Hence, 500 waves are present in 300mtherefore, No. of waves between XY are 2*500 = 1000
+The drift velocity of electrons in metal is in the order of mm/s.
+P=Fvsince, F =mv/t=ms/t^2
+To emit X-ray the difference between two energy level must lie in X-ray region
+Here k for solid sphere is less than hollow sphere so 'a' for solid sphere is greater than hollow sphere. Hence solid sphere will reach at bottom faster.\begin{array}{l}\alpha=\frac{g\;\sin\theta}{1+{\displaystyle\frac{k^2}{r^2}}}\\\end{array}
+Force on electron act in opposite direction of field so they decelerate.
+ΔP=mvsin45−(−mvsin45)
+\begin{array}{l}use\;the\;relation\\m=\frac IO=\frac vu\\\end{array}
+G+R=nG or, R=(n-1)G
+use R=ρl/A
+stress is independent of the length
+Acceleration increases if displacement increases but time period is independent
+R=\frac{\Delta V}{\Delta I}=\frac1{0.5\times10^{-6}}
+If uv radiation doesn't emit electron then radiation to emit electron must be enegetic i.e, x-ray.
+E=\frac Q{4{\mathrm{πε}}_0\mathrm r^2}=\frac\sigma{\varepsilon_o}
+\begin{array}{l}KE=PE\\\frac12mw^2(a^2-y^2)=\frac12mw^2y^2\\or,\;a^2=2y^2\end{array}
+\begin{array}{l}KE_1=KE_2\\or,\;\frac{L_1^2}{2I}=\frac{L_2^2}{2\ast2I}\\or,\frac{L_1}{L_2}=\frac1{\sqrt2}\end{array}
+on introducing dielectric slab, capacitance increases. So electric field intensity decreases.
+\frac{KE_o}{KE_H}=\frac{\displaystyle\frac32KT}{\displaystyle\frac32KT}=1:1
+This is because, the rear wheel is constantly being rotated by a external force and hence it must exert forward friction on ground to keep moving, but front wheel is being rotated due to friction of ground which is backward in direction at the lowermost tip of tyre of front wheel.
+μ=tanip​=tan67 c = \sin^-1(\dfrac{1}{\mu}) = 25.1^{\circ}
+ Force Constant K∝1/length
+Pole strength ∝ Cross sectional area.
+We have the net flux through whole cube will beQ/8​ due to charge at corner. \dfrac{Q}{24}
+Object in rarer medium is seen from denser medium, then it appears taller than its actual height. This is converse for shift in medium.
+Water is denser than air, so total internal reflection is the accounting factor for this phenomenon.
+Force between two charges is always same independent of other charges in their periphery
+Intensity of x-ray increases on increasing current through the filament.
+ I \propto a^2
+\frac{\lambda_c}{\lambda_p}=\frac{\displaystyle\frac h{\sqrt{2m_eev}}}{\frac h{\sqrt{2m_pev}}}=\sqrt{\frac{m_p}{m_e}}
+\begin{array}{l}v=\sqrt{v_x^2+v_y^2}\;,\;speed\;will\;be\;least\;if\;v_y=0\\i.e\;heighest\;point\end{array}
+As refractive index of red is less than voilet so, red light deviate less
+Thermocouple thermometer will be more sensitive if distance of two metals in themo electric series increases 
+Act as parallel plate conductor carrying current in same direction
+As water evaporates its temperature falls
+In case of helium, on increasing humidity density increases so velocity of sound decrases
+\begin{array}{l}mk^2=\frac25mR^2\;+mR^2\\or,k=\sqrt{\frac75}R\end{array}
+Obvious
+\begin{array}{l}\lambda=\frac h{\sqrt{2mE}}\\\frac{\lambda'}\lambda=\sqrt{\frac E{E'}}=1/2\end{array}
+\begin{array}{l}\lambda=\frac vf=\frac{360}{500}=0.72\;m\\\phi=\frac{2\pi x}\lambda\\x=0.12m\end{array}
+\frac{\displaystyle\frac em}{\displaystyle\frac{2e}{4m}}=2:1
+\eta=\left(1-\frac{T_2}{T_1}\right)\times100\%where T2 =27
+maximum KE = Maximum PE 
+volume of water decrease from 0 to 4 and the increases
+\begin{array}{l}v^2=2gh\\and\\(2v)^2=2gh'\\or,4.2gn=2gh'\\h'=4h\\h'-h=3h\end{array}
+D=4ff=D/4
+\begin{array}{l}C=4\pi\varepsilon_or....1\\if\;drops\;combine,\\\frac{4\pi}3R^3=\frac{n4\pi}3r^3\\R=2r\\then,\\C'=4\pi\varepsilon_oR........2\\divide\;1\;by\;2\;\end{array}
+\begin{array}{l}V=\sqrt{2gh}\\\frac{P_1}{P_2}=\frac{m_1v}{m_2v}=\frac23\end{array}
+\begin{array}{l}\frac{V_{out}}{V_{in}}=\frac{I_cR_{out}}{I_bR_{in}}\\V_{out}=\beta\times\frac{4000}{500}\times10\times10^{-3}=4V\end{array}
+Oil film is appeared coloured due to interference of light.
+Two waves of same frequency travelling in opposite direction form stationary wave.
+The energy of electron is independent of intensity of radiation.
+\begin{array}{l}E=\frac1{r^2}\\r=\sqrt{\frac{-1}E}=\sqrt{\frac{50}2}=5\;m\\\end{array}
+\begin{array}{l}Vol/see=\;Av=A\sqrt{2gh}\;\;\\i.e.\;vol/sec\;is\;independent\;to\;density\;of\;liquid.\end{array}
+When cathode rays are projected perpendicular to magnetic field then force is perpendiucular to path & path. is circular.
+Speed decreases during retardation
+For isochoric process dv= 0 so volume remain constant.
+\begin{array}{l}h=\frac{u^2}{2g}\\or,\;u²\;=\;2gh\;\;\\Again\;R=\;\frac{u^2}g=\frac{\;2gh}g\;=\;2h\end{array}
+\begin{array}{l}R=\frac{\rho l}A=\frac{\rho l^2}V\\so,\;R'=4R\end{array}
+Due to low thermal conductivity of cloud no heat energy can escape from earth
+\begin{array}{l}3\%\;of\;P=\frac{nhC}{t\lambda}\\\frac nt=\frac{3\times25\times6600\times10^{-10}}{100\times6.62\times10^{-34}\times3\times10^8}\\I=\frac{ne}t=2.49\times10^{18}\times1.6\times10^{-19}\\\;\;\;=0.398\;A=0.4\;A\\\end{array}
+We know,dQ = du + dwwhen dw = 0, du < 0i.e. internal energy decrease, so temperature will decrease.
+When dielectric slab is introduced then C increases at constant V so Q = CV, increases.
+Rainbow is due to dispersion of light in which total internal reflection also takes place.
+Node are point where particle have minimum displacement so pressure will e maximum. i.e. strain will be maximum.
+Location of particles changes means distance and displacement both will not e zero.
+Surface tension is due to inter molecuar force of attraction which decreases with increase in temperature
+on increasing temperature wavelength decreases
+\begin{array}{l}\frac{R'}R=\left(\frac{3l}l\right)^2\\R'=9\ast5=45\end{array}
+\begin{array}{l}\Delta V=V\gamma\Delta\theta\;\\\;Expansion\;depends\;on\;dimension,\;nature\;of\;mater\;and\;change\;in\;temperature\;which\;remain\;cons\tan t..\end{array}
+L=mvr=\frac{nh}{2\mathrm\pi}
+\begin{array}{l}g'=g-R\omega2cos2\theta\\As\;we\;go\;from\;equator\;to\;pole\;\theta\;increases\;so\;value\;of\;g\;also\;increase.\end{array}
+\begin{array}{l}\frac{C_{O\_rms}}{C_{H\_rms}}=\sqrt{\frac{M_H}{M_O}}\;\\C_{O\_rms}=1920\sqrt{\frac2{32}}=480m/s\end{array}
+\begin{array}{l}After\;passing\;from1st\\I_1=0.9I\\After\;passing\;from\;2nd\;I_2=0.9I_1=0.81I2\\\%reduce=(1-\frac{I_2}{l_1})\times100\%\end{array}
+When force of constant magnitude act on a body perpendicular to path then speed remain constant.
+Efficiency\;increases\;of\;ratio\;of\frac{T1}{T2}\;\;\;is\;less\;i.e.\;T2\;decreases\;\&\;T1\;increases.
+In high altitude gas expand adiabatically so temp. fall.
+First increases and becomes maximum at neutral temperature then decreases to zero at temperature of inversion then increases in reverse direction.
+Use graph of variation of binding energy per nucleon with mass no.
+Velocity of sound is independent to change in pressure
+Sensitivity increase if potential gradient decreases i.e. length of potentiometer increases
+E/V=1/2∗CV^ 
+2
+ /(Ad)=1/2∗ϵ 
+o
+​
+ V ^
+2
+ /d ^
+2
+\begin{array}{l}v=at=\frac{\displaystyle vt}T​\\Workdone(w)=\frac{\displaystyle1}{\displaystyle2}mv^2\\or,w\propto v^2\\or,w\propto\frac{v^2t^2}{T^2}\end{array}
+\begin{array}{l}L=mvr=mr2\omega\\Again,L'=mr'^2\omega'=m(\frac{\displaystyle r}{\displaystyle2})^2\times2\omega=mr^2\omega\times\frac{\displaystyle1}{\displaystyle2}=\frac{\displaystyle L}{\displaystyle2}\end{array}
+\begin{array}{l}wt=mg=w\\Atadepth.\\wt=mg'=mg(1-\frac R2)=\frac w2\end{array}
+Running fan increases the rate of evaporation.
+V=\frac{W\;​}{\;\;Q\;}\;\;=\;5/2=2.5V
+\begin{array}{l}\frac{1​}2\times mv^2=F_f​\times s\\or,\frac12\times mv^2=\mu mgs\\or,s=\frac{v^2}{2\mu g}\\So,\frac{s'}s=(\frac{100}{50})^2=4\\s'=6\times4=24m\end{array}
+\beta=\;\frac{\;\;\Delta I_{\;\;c}\;​\;}{\;\;\Delta I_{\;\;b}\;​}\;\;​\;\;=\;\frac{\;(10-5)\times10\;^{\;-3\;\;}}{\;(200-100)\times10\;^{\;-6\;}\;}\;​\;\;=50
+so \muμ is maximum for blue due to minimum wavelength so blue will deviate maximum.
+Momentum is only conserved in explosion
+Cooking is boiling at high temperature
+Velocity of sound is independent to change in pressure.
+Cooking is faster due to cooking at high boiling point due to increase in pressure.
+Charge at corner contribute one eighth 
+\begin{array}{l}g=\frac{GM}{R^2}​\\Ifearth\;shrink\;then\\g’=\frac{GM}{(\frac R2)^2}=4\times\frac{GM}{R^2}=4g\end{array}
+In forward biasing the majority charge carries are pushed towards junction so width of depletion layer decreases.
+P2​V2^γ​=P1​V1^γ​ 
+Since, λblue​<λred​, so x decrease and band becomes narrower
+α=0.96We have,\beta =\dfrac {\alpha}{(1-\alpha)}= 24
+Fa​=40NƐ_r = \dfrac{F_a}{F_m}F_m = \dfrac{40}{8} = 5\;N
+Centripetal acceleration remains unchanged.
+The no. of photo electrons emitted are proportional to the intensity of incident radiation
+focal length negativev = -uthen use mirror formulawe get,u=(n−1)f
+On decreasing r , PE increases
+If coin falls behind the person then train must be in acceleration.
+R = (V - Vz)/Is = (20 - 5)/(10 × 10-3) = 1500 ohm = 1.5 k ohm
+600m is traveled in 2sec so in 1sec it travel 300m. Hence, 500 waves are present in 300mtherefore, No. of waves between XY are 2*500 = 1000
+The drift velocity of electrons in metal is in the order of mm/s.
+P=Fvsince, F =mv/t=ms/t^2
+To emit X-ray the difference between two energy level must lie in X-ray region
+Here k for solid sphere is less than hollow sphere so 'a' for solid sphere is greater than hollow sphere. Hence solid sphere will reach at bottom faster.\begin{array}{l}\alpha=\frac{g\;\sin\theta}{1+{\displaystyle\frac{k^2}{r^2}}}\\\end{array}
+Force on electron act in opposite direction of field so they decelerate.
+ΔP=mvsin45−(−mvsin45)
+\begin{array}{l}use\;the\;relation\\m=\frac IO=\frac vu\\\end{array}
+G+R=nG or, R=(n-1)G
+use R=ρl/A
+stress is independent of the length
+Acceleration increases if displacement increases but time period is independent
+R=\frac{\Delta V}{\Delta I}=\frac1{0.5\times10^{-6}}
+If uv radiation doesn't emit electron then radiation to emit electron must be enegetic i.e, x-ray.
+E=\frac Q{4{\mathrm{πε}}_0\mathrm r^2}=\frac\sigma{\varepsilon_o}
+\begin{array}{l}KE=PE\\\frac12mw^2(a^2-y^2)=\frac12mw^2y^2\\or,\;a^2=2y^2\end{array}
+\begin{array}{l}KE_1=KE_2\\or,\;\frac{L_1^2}{2I}=\frac{L_2^2}{2\ast2I}\\or,\frac{L_1}{L_2}=\frac1{\sqrt2}\end{array}
+on introducing dielectric slab, capacitance increases. So electric field intensity decreases.
+\frac{KE_o}{KE_H}=\frac{\displaystyle\frac32KT}{\displaystyle\frac32KT}=1:1
+This is because, the rear wheel is constantly being rotated by a external force and hence it must exert forward friction on ground to keep moving, but front wheel is being rotated due to friction of ground which is backward in direction at the lowermost tip of tyre of front wheel.
+μ=tanip​=tan67 c = \sin^-1(\dfrac{1}{\mu}) = 25.1^{\circ}
+ Force Constant K∝1/length
+Pole strength ∝ Cross sectional area.
+We have the net flux through whole cube will beQ/8​ due to charge at corner. \dfrac{Q}{24}
+Object in rarer medium is seen from denser medium, then it appears taller than its actual height. This is converse for shift in medium.
+Water is denser than air, so total internal reflection is the accounting factor for this phenomenon.
+Force between two charges is always same independent of other charges in their periphery
+Intensity of x-ray increases on increasing current through the filament.
+ I \propto a^2
+\frac{\lambda_c}{\lambda_p}=\frac{\displaystyle\frac h{\sqrt{2m_eev}}}{\frac h{\sqrt{2m_pev}}}=\sqrt{\frac{m_p}{m_e}}
+\begin{array}{l}v=\sqrt{v_x^2+v_y^2}\;,\;speed\;will\;be\;least\;if\;v_y=0\\i.e\;heighest\;point\end{array}
+As refractive index of red is less than voilet so, red light deviate less
+Thermocouple thermometer will be more sensitive if distance of two metals in themo electric series increases 
+Act as parallel plate conductor carrying current in same direction
+As water evaporates its temperature falls
+In case of helium, on increasing humidity density increases so velocity of sound decrases
+\begin{array}{l}mk^2=\frac25mR^2\;+mR^2\\or,k=\sqrt{\frac75}R\end{array}
+Obvious
+\begin{array}{l}\lambda=\frac h{\sqrt{2mE}}\\\frac{\lambda'}\lambda=\sqrt{\frac E{E'}}=1/2\end{array}
+\begin{array}{l}\lambda=\frac vf=\frac{360}{500}=0.72\;m\\\phi=\frac{2\pi x}\lambda\\x=0.12m\end{array}
+\frac{\displaystyle\frac em}{\displaystyle\frac{2e}{4m}}=2:1
+\eta=\left(1-\frac{T_2}{T_1}\right)\times100\%where T2 =27
+maximum KE = Maximum PE 
+volume of water decrease from 0 to 4 and the increases
+\begin{array}{l}v^2=2gh\\and\\(2v)^2=2gh'\\or,4.2gn=2gh'\\h'=4h\\h'-h=3h\end{array}
+D=4ff=D/4
+\begin{array}{l}C=4\pi\varepsilon_or....1\\if\;drops\;combine,\\\frac{4\pi}3R^3=\frac{n4\pi}3r^3\\R=2r\\then,\\C'=4\pi\varepsilon_oR........2\\divide\;1\;by\;2\;\end{array}
+\begin{array}{l}V=\sqrt{2gh}\\\frac{P_1}{P_2}=\frac{m_1v}{m_2v}=\frac23\end{array}
+\begin{array}{l}\frac{V_{out}}{V_{in}}=\frac{I_cR_{out}}{I_bR_{in}}\\V_{out}=\beta\times\frac{4000}{500}\times10\times10^{-3}=4V\end{array}
+Oil film is appeared coloured due to interference of light.
+Two waves of same frequency travelling in opposite direction form stationary wave.
+The energy of electron is independent of intensity of radiation.
+\begin{array}{l}E=\frac1{r^2}\\r=\sqrt{\frac{-1}E}=\sqrt{\frac{50}2}=5\;m\\\end{array}
+\begin{array}{l}Vol/see=\;Av=A\sqrt{2gh}\;\;\\i.e.\;vol/sec\;is\;independent\;to\;density\;of\;liquid.\end{array}
+When cathode rays are projected perpendicular to magnetic field then force is perpendiucular to path & path. is circular.
+Speed decreases during retardation
+For isochoric process dv= 0 so volume remain constant.
+\begin{array}{l}h=\frac{u^2}{2g}\\or,\;u²\;=\;2gh\;\;\\Again\;R=\;\frac{u^2}g=\frac{\;2gh}g\;=\;2h\end{array}
+\begin{array}{l}R=\frac{\rho l}A=\frac{\rho l^2}V\\so,\;R'=4R\end{array}
+Due to low thermal conductivity of cloud no heat energy can escape from earth
+\begin{array}{l}3\%\;of\;P=\frac{nhC}{t\lambda}\\\frac nt=\frac{3\times25\times6600\times10^{-10}}{100\times6.62\times10^{-34}\times3\times10^8}\\I=\frac{ne}t=2.49\times10^{18}\times1.6\times10^{-19}\\\;\;\;=0.398\;A=0.4\;A\\\end{array}
+We know,dQ = du + dwwhen dw = 0, du < 0i.e. internal energy decrease, so temperature will decrease.
+When dielectric slab is introduced then C increases at constant V so Q = CV, increases.
+Rainbow is due to dispersion of light in which total internal reflection also takes place.
+Node are point where particle have minimum displacement so pressure will e maximum. i.e. strain will be maximum.
+Location of particles changes means distance and displacement both will not e zero.
+Surface tension is due to inter molecuar force of attraction which decreases with increase in temperature
+on increasing temperature wavelength decreases
+\begin{array}{l}\frac{R'}R=\left(\frac{3l}l\right)^2\\R'=9\ast5=45\end{array}
+\begin{array}{l}\Delta V=V\gamma\Delta\theta\;\\\;Expansion\;depends\;on\;dimension,\;nature\;of\;mater\;and\;change\;in\;temperature\;which\;remain\;cons\tan t..\end{array}
+L=mvr=\frac{nh}{2\mathrm\pi}
+\begin{array}{l}g'=g-R\omega2cos2\theta\\As\;we\;go\;from\;equator\;to\;pole\;\theta\;increases\;so\;value\;of\;g\;also\;increase.\end{array}
+\begin{array}{l}\frac{C_{O\_rms}}{C_{H\_rms}}=\sqrt{\frac{M_H}{M_O}}\;\\C_{O\_rms}=1920\sqrt{\frac2{32}}=480m/s\end{array}
+\begin{array}{l}After\;passing\;from1st\\I_1=0.9I\\After\;passing\;from\;2nd\;I_2=0.9I_1=0.81I2\\\%reduce=(1-\frac{I_2}{l_1})\times100\%\end{array}
+When force of constant magnitude act on a body perpendicular to path then speed remain constant.
+Efficiency\;increases\;of\;ratio\;of\frac{T1}{T2}\;\;\;is\;less\;i.e.\;T2\;decreases\;\&\;T1\;increases.
+In high altitude gas expand adiabatically so temp. fall.
+First increases and becomes maximum at neutral temperature then decreases to zero at temperature of inversion then increases in reverse direction.
+Use graph of variation of binding energy per nucleon with mass no.
+Velocity of sound is independent to change in pressure
+Sensitivity increase if potential gradient decreases i.e. length of potentiometer increases
+E/V=1/2∗CV^ 
+2
+ /(Ad)=1/2∗ϵ 
+o
+​
+ V ^
+2
+ /d ^
+2
+\begin{array}{l}v=at=\frac{\displaystyle vt}T​\\Workdone(w)=\frac{\displaystyle1}{\displaystyle2}mv^2\\or,w\propto v^2\\or,w\propto\frac{v^2t^2}{T^2}\end{array}
+\begin{array}{l}L=mvr=mr2\omega\\Again,L'=mr'^2\omega'=m(\frac{\displaystyle r}{\displaystyle2})^2\times2\omega=mr^2\omega\times\frac{\displaystyle1}{\displaystyle2}=\frac{\displaystyle L}{\displaystyle2}\end{array}
+\begin{array}{l}wt=mg=w\\Atadepth.\\wt=mg'=mg(1-\frac R2)=\frac w2\end{array}
+Running fan increases the rate of evaporation.
+V=\frac{W\;​}{\;\;Q\;}\;\;=\;5/2=2.5V
+\begin{array}{l}\frac{1​}2\times mv^2=F_f​\times s\\or,\frac12\times mv^2=\mu mgs\\or,s=\frac{v^2}{2\mu g}\\So,\frac{s'}s=(\frac{100}{50})^2=4\\s'=6\times4=24m\end{array}
+\beta=\;\frac{\;\;\Delta I_{\;\;c}\;​\;}{\;\;\Delta I_{\;\;b}\;​}\;\;​\;\;=\;\frac{\;(10-5)\times10\;^{\;-3\;\;}}{\;(200-100)\times10\;^{\;-6\;}\;}\;​\;\;=50
+so \muμ is maximum for blue due to minimum wavelength so blue will deviate maximum.
+Momentum is only conserved in explosion
+Cooking is boiling at high temperature
+Velocity of sound is independent to change in pressure.
+Cooking is faster due to cooking at high boiling point due to increase in pressure.
+Charge at corner contribute one eighth 
+\begin{array}{l}g=\frac{GM}{R^2}​\\Ifearth\;shrink\;then\\g’=\frac{GM}{(\frac R2)^2}=4\times\frac{GM}{R^2}=4g\end{array}
+In forward biasing the majority charge carries are pushed towards junction so width of depletion layer decreases.
+P2​V2^γ​=P1​V1^γ​ 
+Since, λblue​<λred​, so x decrease and band becomes narrower
+α=0.96We have,\beta =\dfrac {\alpha}{(1-\alpha)}= 24
+Fa​=40NƐ_r = \dfrac{F_a}{F_m}F_m = \dfrac{40}{8} = 5\;N
+Centripetal acceleration remains unchanged.
+The no. of photo electrons emitted are proportional to the intensity of incident radiation
+focal length negativev = -uthen use mirror formulawe get,u=(n−1)f
+On decreasing r , PE increases
+If coin falls behind the person then train must be in acceleration.
+R = (V - Vz)/Is = (20 - 5)/(10 × 10-3) = 1500 ohm = 1.5 k ohm
+600m is traveled in 2sec so in 1sec it travel 300m. Hence, 500 waves are present in 300mtherefore, No. of waves between XY are 2*500 = 1000
+The drift velocity of electrons in metal is in the order of mm/s.
+P=Fvsince, F =mv/t=ms/t^2
+To emit X-ray the difference between two energy level must lie in X-ray region
+Here k for solid sphere is less than hollow sphere so 'a' for solid sphere is greater than hollow sphere. Hence solid sphere will reach at bottom faster.\begin{array}{l}\alpha=\frac{g\;\sin\theta}{1+{\displaystyle\frac{k^2}{r^2}}}\\\end{array}
+Force on electron act in opposite direction of field so they decelerate.
+ΔP=mvsin45−(−mvsin45)
+\begin{array}{l}use\;the\;relation\\m=\frac IO=\frac vu\\\end{array}
+G+R=nG or, R=(n-1)G
+use R=ρl/A
+stress is independent of the length
+Acceleration increases if displacement increases but time period is independent
+R=\frac{\Delta V}{\Delta I}=\frac1{0.5\times10^{-6}}
+If uv radiation doesn't emit electron then radiation to emit electron must be enegetic i.e, x-ray.
+E=\frac Q{4{\mathrm{πε}}_0\mathrm r^2}=\frac\sigma{\varepsilon_o}
+\begin{array}{l}KE=PE\\\frac12mw^2(a^2-y^2)=\frac12mw^2y^2\\or,\;a^2=2y^2\end{array}
+\begin{array}{l}KE_1=KE_2\\or,\;\frac{L_1^2}{2I}=\frac{L_2^2}{2\ast2I}\\or,\frac{L_1}{L_2}=\frac1{\sqrt2}\end{array}
+on introducing dielectric slab, capacitance increases. So electric field intensity decreases.
+\frac{KE_o}{KE_H}=\frac{\displaystyle\frac32KT}{\displaystyle\frac32KT}=1:1
+This is because, the rear wheel is constantly being rotated by a external force and hence it must exert forward friction on ground to keep moving, but front wheel is being rotated due to friction of ground which is backward in direction at the lowermost tip of tyre of front wheel.
+μ=tanip​=tan67 c = \sin^-1(\dfrac{1}{\mu}) = 25.1^{\circ}
+ Force Constant K∝1/length
+Pole strength ∝ Cross sectional area.
+We have the net flux through whole cube will beQ/8​ due to charge at corner. \dfrac{Q}{24}
+Object in rarer medium is seen from denser medium, then it appears taller than its actual height. This is converse for shift in medium.
+Water is denser than air, so total internal reflection is the accounting factor for this phenomenon.
+Force between two charges is always same independent of other charges in their periphery
+Intensity of x-ray increases on increasing current through the filament.
+ I \propto a^2
