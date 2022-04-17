@@ -36,43 +36,45 @@ public class LatexParser {
     Note: Changes are required only in this method
     */
     public String getHtml(){
-        String p_tag="";
-        String script="";
+
         String text = getLatex();
-        if(text.contains("\\")){
-            script = "<script type=\"math/tex\" id=\"MathJax-Element-2\">"+text +
-                    "    </script>\n";
-        }else{
-            p_tag = "    <p>\n" +
-                    text +
-                    "    </p>\n";
-        }
         String Html_template = "<!DOCTYPE html>\n" +
-                "<html>\n" +
+                "<html lang=\"en\">\n" +
+                "\n" +
                 "<head>\n" +
-                "    <meta charset=\"utf-8\">\n" +
-                "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n" +
-                "    <title></title>\n" +
+                "    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n" +
+                "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n" +
+                "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n" +
+                "    <style>\n" +
+                "        body {\n" +
+                "            font-family: Arial, Helvetica, sans-serif;\n" +
+                "        }\n" +
+                "    </style>\n" +
+                "    <!-- KaTeX -->\n" +
+                "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.css\" integrity=\"sha384-KiWOvVjnN8qwAZbuQyWDIbfCLFhLXNETzBQjA/92pIowpC0d2O3nppDGQVgwd2nB\" crossorigin=\"anonymous\">\n" +
+                "\t<script defer src=\"https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js\" integrity=\"sha384-0fdwu/T/EQMsQlrHCCHoH10pkPLlKA1jL5dFyUOvB3lfeT2540/2g6YgSi2BL14p\" crossorigin=\"anonymous\"></script>\n" +
+                "\t<script defer src=\"https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/contrib/auto-render.min.js\" integrity=\"sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR\" crossorigin=\"anonymous\"></script>\n" +
+                "\t<script>\n" +
+                "\t    document.addEventListener(\"DOMContentLoaded\", function() {\n" +
+                "\t        renderMathInElement(document.body, {\n" +
+                "\t          // customised options\n" +
+                "\t          // • auto-render specific keys, e.g.:\n" +
+                "\t          delimiters: [\n" +
+                "\t              {left: '$$', right: '$$', display: true},\n" +
+                "\t              {left: '$', right: '$', display: false},\n" +
+                "\t              {left: '\\\\(', right: '\\\\)', display: false},\n" +
+                "\t              {left: '\\\\[', right: '\\\\]', display: true}\n" +
+                "\t          ],\n" +
+                "\t          // • rendering keys, e.g.:\n" +
+                "\t          throwOnError : false\n" +
+                "\t        });\n" +
+                "\t    });\n" +
+                "\t</script>\n" +
                 "</head>\n" +
+                "\n" +
                 "<body>\n" +
-                p_tag +
-                 script+
-                "<script type=\"text/x-mathjax-config;executed=true\">\n" +
-                "     MathJax.Hub.Config({tex2jax: {inlineMath: [['\\\\(','\\\\)']]}});\n" +
-                "</script>\n" +
-                "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML\" id=\"\">\n" +
-                "</script>\n" +
-                "<script type=\"text/x-mathjax-config;executed=true\">\n" +
-                "MathJax.Hub.Register.StartupHook(\"End Jax\",function () {\n" +
-                " var BROWSER = MathJax.Hub.Browser;\n" +
-                " var jax = \"SVG\";\n" +
-                " //var jax = \"HTML-CSS\";\n" +
-                " if (BROWSER.isMSIE && BROWSER.hasMathPlayer) jax = \"NativeMML\";\n" +
-                " if (BROWSER.isFirefox) jax = \"SVG\";\n" +
-                " if (BROWSER.isSafari && !BROWSER.isChrome && BROWSER.versionAtLeast(\"5.0\")) jax = \"NativeMML\";\n" +
-                " return MathJax.Hub.setRenderer(jax);\n" +
-                "});\n" +
-                "</script>\n" +
+                "\t<p>"+text +
+                " </p>\n" +
                 "</body>\n" +
                 "</html>";
         return Html_template;
